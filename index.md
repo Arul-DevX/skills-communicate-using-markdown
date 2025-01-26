@@ -5,3 +5,4 @@
 ##### H5 Header
 ###### H6 Header
 "h1 Added in the index.md"
+![image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
